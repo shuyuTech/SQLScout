@@ -3,7 +3,7 @@
 
 //具体破解的介绍Blog: <http://www.cnblogs.com/tiantianbyconan/p/5972138.html>
 
-
+```
 Connecting to Android Databases
 To connect to a database in an Android device (including the Android emulator), your project must be an Android application and it must be running on the emulator or a real device.
 Live Device Connection
@@ -33,3 +33,4 @@ Select the package name (or application ID) from the "Package name" drop-down. T
 Select the type of storage: internal or external memory of the device or emulator.
 Select the SQLite database from the "Database" drop-down.
 Click "OK".
+```
